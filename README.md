@@ -29,8 +29,6 @@ A simple **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**.
 - **CSS**: Styling for the game board and elements.
 - **JavaScript**: Game logic and interactivity.
 
-## Demo
-You can try the game live [here](#). *(Add the live demo link here if deployed)*
 
 ---
 
